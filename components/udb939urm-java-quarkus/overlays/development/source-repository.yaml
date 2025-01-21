@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: udb939urm-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/udb939urm-java-quarkus
